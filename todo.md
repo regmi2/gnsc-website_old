@@ -3,9 +3,9 @@
 - [x] Create official organization email (Gmail)
 - [x] Create a Google Form for contact submissions
 - [x] Set up GitHub organization,
-- [ ] LinkedIn page, and
+- [x] LinkedIn page
 - [x] YouTube channel
-- [ ] Get Facebook page link
+- [x] Get Facebook page link
 - [ ] Replace footer SVGs with actual social brand icons
 - [ ] Change professor speaking picture in What We Do section
 - [ ] Collect speaker details & abstracts for actual academic presentations
