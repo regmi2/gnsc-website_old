@@ -1,8 +1,10 @@
 # GNSC Website — Action Items & TODOs
 
-- [ ] Create official organization email (Gmail)
-- [ ] Create a Google Form for contact submissions
-- [ ] Set up GitHub organization, LinkedIn page, and YouTube channel
+- [x] Create official organization email (Gmail)
+- [x] Create a Google Form for contact submissions
+- [x] Set up GitHub organization,
+- [ ] LinkedIn page, and
+- [x] YouTube channel
 - [ ] Get Facebook page link
 - [ ] Replace footer SVGs with actual social brand icons
 - [ ] Change professor speaking picture in What We Do section
@@ -10,5 +12,18 @@
 - [ ] update presentation filters to be shorter in text but broader in amount of choices
 - [ ] gather board member photos, bios, and titles
 - [ ] update contact details in footer once we have emails set
+
+Future Versions
+- [ ] Job Link
+- [ ] Membership
+- [ ] Sponsors
+- [ ] Training/Mentorship
+- [ ] Doc
+- [ ] Collaboration
+- [ ] Tech Transfer
+- [ ] Projects
+- [ ] R&D
+- [ ] Publications
+- [ ] Conference/Seminars/Symposiums
 
 
